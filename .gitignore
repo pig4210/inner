@@ -1,0 +1,14 @@
+/*.swp
+/*.*~
+/*.sdf
+/*.opensdf
+/*.rar
+
+*.obj
+*.log
+*.tlog
+*.resources
+*.exp
+*.lib
+*.pdb
+*.cache
